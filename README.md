@@ -1,4 +1,4 @@
-# 🎬 CineStream-X (Full-Stack MERN Netflix Clone)
+# 🎬 Flix-Station (Full-Stack MERN Netflix Clone)
 
 A feature-rich, full-stack movie streaming platform that replicates the Netflix experience. [cite_start]This project demonstrates end-to-end development, from managing a **MongoDB** database to building a responsive **React** UI. 
 
